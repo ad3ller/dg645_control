@@ -1,7 +1,6 @@
-# dg645_control
-Labview 2015 control GUI for SRS DG645
+# DG645 control
 
-This vi allows you to configure all of the outputs for an SRS DG645 delay generator.  Configuration settings can be stored and recalled using XML files.
+A GUI to configure all of the outputs for an SRS DG645 signal generator.  Configuration settings can be stored and recalled using XML files.
 
 Requires NI LabVIEW >=2015, NI VISA, and DG645 plug-and-play drivers
 
